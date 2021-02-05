@@ -52,6 +52,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 ```
 git add file name
 git add -A #the same as above
+#提交文件到暂存区后 git status 看一下文件名会变绿
 ```
 
 
