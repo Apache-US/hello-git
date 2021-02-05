@@ -55,7 +55,21 @@ git add -A #the same as above
 #提交文件到暂存区后 git status 看一下文件名会变绿
 ```
 
+##### 撤消暂存区
+
 ```
+git rm --cached #文件颜色会变红,表示未提交到暂存区
+```
+
+可以在隐藏文件 .git 中查看index 文件 
+
+##### git 提交到本地仓库区
+
+```
+git commit -m "add more"
+```
+
+
 
 
 
