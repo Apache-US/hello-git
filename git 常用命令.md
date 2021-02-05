@@ -80,11 +80,13 @@ git push origin master -u
 
 ##### git clone 克隆
 
-如果目录存在会提示文件已经存在
+如果目录存在会提示文件已经存在, 可以在网址后面加上空格,新的文件名既可
 
 ```
 git clone https://github.com/Apache-US/git-tutorial.git
 ```
+
+进入到git-demo 新文件名
 
 ###### git checkout -- file name 还原上一个状态
 
