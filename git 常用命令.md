@@ -69,7 +69,22 @@ git rm --cached #文件颜色会变红,表示未提交到暂存区
 git commit -m "add more"
 ```
 
+#### git push 提交到远程仓库
 
+```
+git push origin master -u 
+#-u 的意思今后只要git push就行了,不用在加origin master这样的参数了
+```
 
+------
 
+##### git clone 克隆
+
+如果目录存在会提示文件已经存在
+
+```
+git clone https://github.com/Apache-US/git-tutorial.git
+```
+
+###### git checkout -- file name 还原上一个状态
 
