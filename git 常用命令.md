@@ -1,4 +1,3 @@
-# hello git this is test
 ##### git 常用命令
 
 ```
@@ -89,5 +88,8 @@ git clone https://github.com/Apache-US/git-tutorial.git
 
 进入到git-demo 新文件名
 
-###### git checkout -- file name 还原上一个状态
+##### git checkout -- file name 还原上一个状态
 
+##### git pull 拉取仓库 
+
+如果文件未提交状态无法提交,操作 git add -A , git commit -m "" 后再拉取
