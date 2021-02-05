@@ -6,6 +6,10 @@ git version #查看git版本命令
 
 ##### 一些常用别名配置
 
+配置用户名 git config --global user.name "your_name"
+
+配置邮箱: git config --global user.email "your_email"
+
 http and https 代理被墙仓库
 
 ```
