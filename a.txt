@@ -1,3 +1,0 @@
-first 1 add one line world
-second 2 add 
-add third line
