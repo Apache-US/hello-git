@@ -1,4 +1,10 @@
 ### hello git
+
+
+在命令行进入到 ~/workspace/git_repos/hello-git]$ 才能执行以下命令
+
+
+
 ##### git 常用命令
 
 ```
