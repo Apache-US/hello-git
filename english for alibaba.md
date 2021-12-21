@@ -12,7 +12,9 @@ thanks!
 
 
 
-ss
+These prices are out of our budget, If you can reduce the price I will place soon.
+
+The prices are outside our budget.
 
 
 
@@ -30,9 +32,18 @@ Kenny
 
 
 
-HELLO! WE ARE LOOKING FOR PRODUCTS ON ALIBABA AND FIND THAT YOU CAN MAKE THE SAME AS OURS.
-SO I’D LIKE TO SEE YOUR QUOTE-SHEET.
+HELLO! WE ARE LOOKING FOR PRODUCTS ON ALIBABA AND FIND THAT YOU CAN MAKE THE SAME AS OURS.SO I’D LIKE TO SEE YOUR QUOTE-SHEET.
 CAN YOU GIVE ME A PRICE QUOTE?
+
+Hello!
+
+
+
+
+
+
+
+
 
 Hello there!
 
