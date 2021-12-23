@@ -1,3 +1,12 @@
+
+
+it was used to spread pornographic content
+
+Please set your seal to this contract then fax back/ send back 请在合作上盖章并回传
+please stamp the contract then fax back
+
+
+
 Received, thank you. but your price is not good. I think we can strike a bargain with you if you allow us a 10% discount.
 
 We have a huge requirement, and we hope that you will be able to meet our demands.If the price is good, we’ll continue to place these amounts.
@@ -36,6 +45,8 @@ HELLO! WE ARE LOOKING FOR PRODUCTS ON ALIBABA AND FIND THAT YOU CAN MAKE THE SAM
 CAN YOU GIVE ME A PRICE QUOTE?
 
 Hello!
+
+
 
 
 
