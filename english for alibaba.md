@@ -1,9 +1,100 @@
+**I would like to.... 我想要 = I'd like to... **
+
+<!--This is the more polite way to say "I want to." 这是说“我想要”的更礼貌的方式 and we usually shorten it to "I'd like to"我们通常将它缩短为-->
+
+shorten = 缩短 short en
+
+I'd like to speak to the manager please. 我想找你们经理聊聊(通常你在店里想投诉某事)
+
+I'd like to buy you a drink to thank you for your help.我想请你喝一杯，感谢你的帮助。
 
 
-it was used to spread pornographic content
+
+------
+
+**I got to/我得/我必须 = I gotta**
+
+<!--it's a more subtle and polite way to say: "I have to do someting"这是一种更委婉和礼貌的表达方式：“我必须做点什么-->
+
+a more subtle/更委婉 - sub tle
+
+a more polite/更礼貌 - po lite
+
+I gotta eat something. Im starving. / starving = very hungry
+
+我得吃点东西。我饿死了。
+
+it's too late. I gonna get going.=太晚了,我得走了. get going = 出发
+
+I gotta prepare for my interview next week = 我得为下周的面试做准备了.
+
+prepare for = pre pare [prɪˈper] / 为某事做准备
+
+ interview = in ter view /  [ˈɪntərvjuː] 面试
+
+------
+
+I am going to.../ I'm gonna.../
+
+I'm gonna to the store later. do you want anything? 
+
+我一会儿要去商店。你想要点什么吗?
+
+the sky is overcast. Im gonna bring my rain jacket. 
+
+天空阴沉沉的。我要带上我的/雨衣/rain jacket
+
+it's too late. Im gonna head to bad now./
+
+太晚了我要去睡觉了/head to bed
+
+------
+
+what are you / whatcha up to?/你在忙什么?
+
+------
+
+We had better report this-我们最好马上上服/ had better(最好)
+
+**I'd better 我最好/**
+
+------
+
+I'm sorry to hear about the bad news. 我很遗憾听到这个坏消息.
+
+------
+
+I'm sorry to bother you, but do you have a minute? 很抱歉打扰你，你现在有时间吗?
+
+------
+
+ningbo is high-risk regions now
+
+I am having lunch是我在吃午饭，
+表达正在吃饭的意思，以下三种均可：
+
+I'm eating(这种最口语化，通常是和熟悉的人说)
+I'm having dinner.(dinner是正餐，这种是比较正式的表达)
+I'm having a meal.（这种是最一般的说法）
+
+If you can't say anything nice, don't say anything at all
+
+I let him Fuck my Ass and my friends Pussy for his Birthday
+
+GF Sucks my Dick in a Flower Robe
+
+sick as a dog 可查词典
+
+My eyes don't feel well
+
+not feeling well 感觉不舒服,可查词典
+
+I have not yet received any response from your end.我还没有收到你方的任何回复
+
+it was used to spread pornographic content它被用来传播色情内容
 
 Please set your seal to this contract then fax back/ send back 请在合作上盖章并回传
-please stamp the contract then fax back
+please stamp the contract then fax back 请在合同上盖章，然后传真回来
 
 
 
@@ -11,7 +102,7 @@ Received, thank you. but your price is not good. I think we can strike a bargain
 
 We have a huge requirement, and we hope that you will be able to meet our demands.If the price is good, we’ll continue to place these amounts.
 
-As for the shower curtain item, how many patterns can I choose? I would like to see your pattern which has details of all the products,
+As for the shower curtain item, how many patterns can I choose? I would like to see your pattern which has details of all the products,	
 
 Please let me know if anything is unclear.
 
@@ -19,7 +110,9 @@ warm regards!
 
 thanks!
 
+according to this one, can you send your detailed request for us to quote?? 
 
+for example the size, what material inside the brush head??
 
 These prices are out of our budget, If you can reduce the price I will place soon.
 
@@ -39,20 +132,18 @@ Many thanks!
 
 Kenny
 
+Hello! there ,
 
+We are looking for products on Alibaba and I want to know whether you have it available and if so,  Please send me quotation details including specifications, possible options, packing and prices at the earliest? 
+
+Thank You.
+
+Normally we package 12 or 24 inner box and 48 outer cartons.
 
 HELLO! WE ARE LOOKING FOR PRODUCTS ON ALIBABA AND FIND THAT YOU CAN MAKE THE SAME AS OURS.SO I’D LIKE TO SEE YOUR QUOTE-SHEET.
 CAN YOU GIVE ME A PRICE QUOTE?
 
 Hello!
-
-
-
-
-
-
-
-
 
 
 
@@ -69,35 +160,6 @@ Awaiting your reply.
 Thank You.
 
 
-
-
-
-Product image search on Alibaba
-https://www.alibaba.com/picture/search.htm?imageType=oss&escapeQp=true&imageAddress=/icbuimgsearch/iNiEQnpHBw1627467229000.jpg&sourceFrom=imageupload&originFrom=https://www.alibaba.com/newarrivals?spm=a2700.8293689.2020belt.dNewArrivals.65ce67afvoZOHY&topOfferIds=62084537295&categoryIds=30&tracelog=BELT_newArrivals
-
-找工厂pc搜索页
-https://factory.1688.com/zgc/page/tyg1c639.html?__pageId__=170307&cms_id=170307&spm=a260k.21589198.0.0.0&keywords=%E5%9B%AD%E6%9E%97%E5%89%AA
-
-工厂名片
-https://show.1688.com/shili/factory/shop.html?spm=a260k.21129858.kj9mj3wz.14.265c7c129n0Zza&__pageId__=99183&cms_id=99183&facMemId=b2b-2207248818604c2427&topOfferIds=640880573012,641623943429,639931952061,641554391199
-
-临沂德辉五金工具有限公司_阿里巴巴旺铺
-https://shop198o930472824.1688.com/?spm=a261y.7663282.autotrace-common_supplierInfoSmall.11.31142b3cc7EFH8
-
-厂家批发园林草坪剪篱笆剪SK5可伸缩绿篱剪绿化工具剪园艺大剪刀-阿里巴巴
-https://detail.1688.com/offer/613541297298.html?spm=a2615.2177701.autotrace-fullscreenImg.4.3b1e2a38cZi7Qj
-
-修枝剪粗枝剪园林伸缩大力剪 粗枝剪鲨鱼口修枝剪 大弯口枝剪批发-阿里巴巴
-https://detail.1688.com/offer/613460321767.html?spm=a2615.2177701.autotrace-fullscreenImg.1.3b1e2a38cZi7Qj
-
-修枝剪粗枝剪园林伸缩大力剪 粗枝剪鲨鱼口修枝剪 大弯口枝剪批发-阿里巴巴
-https://detail.1688.com/offer/613460321767.html?spm=a261y.7663282.trade-type-tab.1.5ba264cdJ20V5z&sk=consign
-
-扩展程序 - 标签一键保存
-chrome://extensions/?id=inmdclijgcfddiagnepffcmknfgghiho
-
-TABLERONE tab manager - Chrome 网上应用店
-https://chrome.google.com/webstore/detail/tablerone-tab-manager/andpjllgocabfacjlelkfpdemfklpfpo/related
 
 
 
